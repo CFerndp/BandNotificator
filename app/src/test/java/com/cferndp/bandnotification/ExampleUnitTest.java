@@ -1,4 +1,4 @@
-package com.example.cristianfernandez.myapplication;
+package com.example.cristianfernandez.smsnotreminder;
 
 import org.junit.Test;
 
